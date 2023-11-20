@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
-<h3 align="center">Dot Net developer</h3>
+<h3 align="center">ASP.NET core developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedashraf74225&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedashraf74225" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedashraf74225" alt="ahmedashraf74225" /></a> </p>
 
-- 🌱 I’m currently learning **Dot Net and Angular**
+- 🌱 I’m currently learning **.NET Core and Angular**
 
 - 📫 How to reach me **ahmedashraf74225@gmail.com**
 
@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-ashraf-947178202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ashraf-947178202/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmedashraf74225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmedashraf74225" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ahmed_ashraf74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_ashraf74/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-ashraf-947178202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-ashraf-947178202/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ahmedashraf74225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedashraf74225" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmed_ashraf74/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed_ashraf74/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
