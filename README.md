@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
-<h3 align="center">ASP.NET core developer</h3>
+<h3 align="center">Junior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedashraf74225&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedashraf74225" /> </p>
 
